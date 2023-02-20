@@ -1,2 +1,2 @@
 <?php
-echo "Hello World";
+echo "Project added to capnel";
